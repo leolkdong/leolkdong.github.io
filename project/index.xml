@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Welcome!</title>
+    <link>https://leodong.github.io/project/</link>
+      <atom:link href="https://leodong.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leodong.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://leodong.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Vesicle-like polydopamine nanomaterials with high viscosity for more efficient T cell activation</title>
+      <link>https://leodong.github.io/project/1/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/1/</guid>
+      <description>&lt;p&gt;Supervisor: Prof. Tiancong Zhao, Prof. Dongyuan Zhao&lt;/p&gt;
+&lt;p&gt;Nanoscale artificial antigen-presenting cells(aAPCs) are often used for T cell activation in vivo or in vitro. Previous studies have shown that differences in topology (e.g. morphology, hardness) of nanomaterials can result in different T cell activation efficacy. In this work, we designed artificial antigen-presenting cells based on a novel highly viscous vesicle-like polydopamine Cap, which shown better T cell activation efficiency compared to spherical nanoparticles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparation of BSA/antibodies-modified polydopamine Cap and NPs&lt;/li&gt;
+&lt;li&gt;Cellular uptake assay of PDA Cap and NPs&lt;/li&gt;
+&lt;li&gt;Co-culture of aAPCs with Jurkat for T cell activation analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In Vitro and In Vivo Screening of Lipid Nanoparticles Containing Novel Biodegradable Ionizable Lipids</title>
+      <link>https://leodong.github.io/project/3/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/3/</guid>
+      <description>&lt;p&gt;Supervisor: Prof. &lt;em&gt;Peng George Wang&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ionizable lipids with unsaturated tails, multiple tails, branched tails, and bio-degradable linkages are considered to have potentially higher mRNA delivery efficiency based on structure-activity relationship(SAR) studies of ionizable lipids reported previously.&lt;/p&gt;
+&lt;p&gt;A library of novel ionizable lipids embodying biodegradable disulfide bonds as well as unsaturated/branched tails was tested in this work. Lipid nanoparticles containing different novel ionizable lipids were manufactured by microfluidic mixers firstly, then prepared FLuc-mRNA LNPs were characterized and screened in vitro and in vivo for mRNA delivery efficiency. Finally, in vivo toxicity of LNPs comprising potent novel ionizable lipids were evaluated. The commercial ionizable lipids SM102, MC3 and ALC0315 were set as references in this work. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Preparation and characterization of LNPs containing novel ionizable lipids
+ &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In vitro and in vivo screening of FLuc-mRNA LNPs &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In vitro and in vivo toxicity evaluation of LNPs comprising novel ionizable lipids &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparation and Stability Testing of Lipid-coated Hydrogel Microparticles</title>
+      <link>https://leodong.github.io/project/4/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/4/</guid>
+      <description>&lt;p&gt;M.Sc. Independent Project&lt;/p&gt;
+&lt;p&gt;Supervisor: Prof. &lt;em&gt;Ying CHAU&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Artificial antigen-presenting cells(aAPCs) can activate and expand T cells in vitro, which have great potential for tumor immunotherapy. Hydrogels have been widely used for medical treatment and drug delivery due to their good biocompatibility. &lt;/p&gt;
+&lt;p&gt;We prepared a series of artificial antigen-presenting cells based on lipid-coated hydrogel microparticles. Firstly, we designed and synthesized different lipid-like ‘anchors’ for modifying hydrogel microparticles. Next, the stability of the lipid membranes on the surface of hydrogel microparticles were tested. Ultimately, two ‘anchors’ were able to provide a half life of more than 500 hours in DC medium and a half life of about 100 hours when co-cultured with T cells. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparation of hydrogel microparticles with different biomaterials, e.g. dextran, hyaluronic acid &lt;/li&gt;
+&lt;li&gt;Synthesis of ‘anchors’ with different structures and lengths &lt;/li&gt;
+&lt;li&gt;Co-culture of aAPCs with T cells or placing aAPCs in DC medium/PBS solution 
+·Quantitative analysis of stability and half-life of POPC/DSPC coated hydrogel microparticles by confocal microscopy and Image J.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional Analysis of Drosophila TCTP Regulating Immune SignalingPathway to Enhance Cell Tolerance to Deltamethrin</title>
+      <link>https://leodong.github.io/project/5/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/5/</guid>
+      <description>&lt;p&gt;B.Sc. Graduation Project&lt;/p&gt;
+&lt;p&gt;Supervisor: Prof. &lt;em&gt;Luogen Cheng&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Translationally controlled tumor protein(TCTP) is a multifunctional protein that is highly conserved in a variety of species. TCTP expression is highly regulated and affects many life processes such as cell growth and differentiation. Since the expression of TCTP was upregulated in drug-resistant insects, we analyzed the effect of TCTP on the expression of drsl1, a gene downstream of the Toll-like receptor signaling pathway, to investigate the regulatory role of TCTP on cellular tolerance. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Studying the relationship between resistance of Drosophila cells to Deltamethrin and TCTP expression &lt;/li&gt;
+&lt;li&gt;Overexpression and interference of TCTP gene in Drosophila cells &lt;/li&gt;
+&lt;li&gt;Analyzing the changes of TCTP expression levels in cells and their effects on gene drsl1 by qPCR &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Screening and Identification of Soil Fungi Carrying Soybean Mosaic Virus</title>
+      <link>https://leodong.github.io/project/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/6/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;strong&gt;2019 Provincial Key (National) College Student Innovation and Entrepreneurship Training Program&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Supervisor: Prof. &lt;em&gt;Kai Xu&lt;/em&gt;, &lt;/p&gt;
+&lt;p&gt;Current research shows the main transmission mode of SMV is seed transmission and aphid transmission，but soil fungi are an important way for plant viruses to spread. Since soybean mosaic disease tends to strike in a certain region year after year, soil fungi are likely to be the mediators of SMV and cause soybean mosaic disease. We attempted to screen for fungi capable of carrying SMV to provide new perspectives on the control of soybean mosaic disease. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cultivating model plants and inoculating Soybean Mosaic Viruses &lt;/li&gt;
+&lt;li&gt;Isolating and purifying soil fungi &lt;/li&gt;
+&lt;li&gt;Screening out the fungi suspected of carrying SMV &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

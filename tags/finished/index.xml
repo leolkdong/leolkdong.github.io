@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finished | Welcome!</title>
+    <link>https://leodong.github.io/tags/finished/</link>
+      <atom:link href="https://leodong.github.io/tags/finished/index.xml" rel="self" type="application/rss+xml" />
+    <description>Finished</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leodong.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Finished</title>
+      <link>https://leodong.github.io/tags/finished/</link>
+    </image>
+    
+    <item>
+      <title>In Vitro and In Vivo Screening of Lipid Nanoparticles Containing Novel Biodegradable Ionizable Lipids</title>
+      <link>https://leodong.github.io/project/3/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/3/</guid>
+      <description>&lt;p&gt;Supervisor: Prof. &lt;em&gt;Peng George Wang&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ionizable lipids with unsaturated tails, multiple tails, branched tails, and bio-degradable linkages are considered to have potentially higher mRNA delivery efficiency based on structure-activity relationship(SAR) studies of ionizable lipids reported previously.&lt;/p&gt;
+&lt;p&gt;A library of novel ionizable lipids embodying biodegradable disulfide bonds as well as unsaturated/branched tails was tested in this work. Lipid nanoparticles containing different novel ionizable lipids were manufactured by microfluidic mixers firstly, then prepared FLuc-mRNA LNPs were characterized and screened in vitro and in vivo for mRNA delivery efficiency. Finally, in vivo toxicity of LNPs comprising potent novel ionizable lipids were evaluated. The commercial ionizable lipids SM102, MC3 and ALC0315 were set as references in this work. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Preparation and characterization of LNPs containing novel ionizable lipids
+ &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In vitro and in vivo screening of FLuc-mRNA LNPs &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In vitro and in vivo toxicity evaluation of LNPs comprising novel ionizable lipids &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparation and Stability Testing of Lipid-coated Hydrogel Microparticles</title>
+      <link>https://leodong.github.io/project/4/</link>
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/4/</guid>
+      <description>&lt;p&gt;M.Sc. Independent Project&lt;/p&gt;
+&lt;p&gt;Supervisor: Prof. &lt;em&gt;Ying CHAU&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Artificial antigen-presenting cells(aAPCs) can activate and expand T cells in vitro, which have great potential for tumor immunotherapy. Hydrogels have been widely used for medical treatment and drug delivery due to their good biocompatibility. &lt;/p&gt;
+&lt;p&gt;We prepared a series of artificial antigen-presenting cells based on lipid-coated hydrogel microparticles. Firstly, we designed and synthesized different lipid-like ‘anchors’ for modifying hydrogel microparticles. Next, the stability of the lipid membranes on the surface of hydrogel microparticles were tested. Ultimately, two ‘anchors’ were able to provide a half life of more than 500 hours in DC medium and a half life of about 100 hours when co-cultured with T cells. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparation of hydrogel microparticles with different biomaterials, e.g. dextran, hyaluronic acid &lt;/li&gt;
+&lt;li&gt;Synthesis of ‘anchors’ with different structures and lengths &lt;/li&gt;
+&lt;li&gt;Co-culture of aAPCs with T cells or placing aAPCs in DC medium/PBS solution 
+·Quantitative analysis of stability and half-life of POPC/DSPC coated hydrogel microparticles by confocal microscopy and Image J.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

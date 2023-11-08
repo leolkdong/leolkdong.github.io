@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing | Welcome!</title>
+    <link>https://leodong.github.io/tags/ongoing/</link>
+      <atom:link href="https://leodong.github.io/tags/ongoing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ongoing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leodong.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ongoing</title>
+      <link>https://leodong.github.io/tags/ongoing/</link>
+    </image>
+    
+    <item>
+      <title>Vesicle-like polydopamine nanomaterials with high viscosity for more efficient T cell activation</title>
+      <link>https://leodong.github.io/project/1/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://leodong.github.io/project/1/</guid>
+      <description>&lt;p&gt;Supervisor: Prof. Tiancong Zhao, Prof. Dongyuan Zhao&lt;/p&gt;
+&lt;p&gt;Nanoscale artificial antigen-presenting cells(aAPCs) are often used for T cell activation in vivo or in vitro. Previous studies have shown that differences in topology (e.g. morphology, hardness) of nanomaterials can result in different T cell activation efficacy. In this work, we designed artificial antigen-presenting cells based on a novel highly viscous vesicle-like polydopamine Cap, which shown better T cell activation efficiency compared to spherical nanoparticles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparation of BSA/antibodies-modified polydopamine Cap and NPs&lt;/li&gt;
+&lt;li&gt;Cellular uptake assay of PDA Cap and NPs&lt;/li&gt;
+&lt;li&gt;Co-culture of aAPCs with Jurkat for T cell activation analysis&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
